@@ -17,6 +17,7 @@
     color: white;
     font-size: 1.2rem;
     text-shadow: 0 0 1px black;
+    box-shadow: 3px 3px 5px grey;
 }
 
 .interface__title {
