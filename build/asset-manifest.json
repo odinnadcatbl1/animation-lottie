@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animation-lottie/build/static/css/main.40479f0f.css",
+    "main.js": "/animation-lottie/build/static/js/main.d532f4ad.js",
+    "index.html": "/animation-lottie/build/index.html",
+    "main.40479f0f.css.map": "/animation-lottie/build/static/css/main.40479f0f.css.map",
+    "main.d532f4ad.js.map": "/animation-lottie/build/static/js/main.d532f4ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40479f0f.css",
+    "static/js/main.d532f4ad.js"
+  ]
+}
