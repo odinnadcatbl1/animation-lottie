@@ -16,7 +16,6 @@ function App() {
 
         delay(3000).then(() => {
             setAnimationIsVisible(false);
-            setButtonVisible(true);
         });
     };
 
@@ -29,6 +28,8 @@ function App() {
                     )}
 
                     {animationIsVisible && <Loading />}
+
+                    {!buttonIsVisible && !animationIsVisible && <Interface />}
                 </div>
             </div>
         </div>
